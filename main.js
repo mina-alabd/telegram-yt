@@ -5,7 +5,7 @@ const Telegraf = require('telegraf')
 const Extra = require('telegraf/extra')
 
 const yt = 'https://youtube.com/watch?v='
-const Token = ''
+const Token = '1107009022:AAHkOzKjK4pDf9D7i-C8-PH5x1NI-61iVe8'
 const exp = /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/
 
 const bot = new Telegraf(Token)
